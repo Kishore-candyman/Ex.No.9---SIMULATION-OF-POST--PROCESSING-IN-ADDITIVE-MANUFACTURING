@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-04-24 160310](https://github.com/user-attachments/assets/3497a0dc-7f83-46cb-8a4a-4387f9a4cdf7)![Screenshot 2025-04-24 160245](https://github.com/user-attachments/assets/79970981-29ee-4208-87bd-3bfdf1837561)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 24-04-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,17 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## Support Removal Process
+![Screenshot 2025-04-24 160121](https://github.com/user-attachments/assets/7dac6888-715c-4183-8dcf-e0b5d88c475c)
 
-### Name:
-### Register Number:
+## UV Curing of 3D printed part 
+![Screenshot 2025-04-24 160245](https://github.com/user-attachments/assets/8c31f505-3e93-4790-96e1-08b53180b2d8)
+
+## Heat Treatment of 3D printed part
+![Screenshot 2025-04-24 160310](https://github.com/user-attachments/assets/df8b93e5-1a48-490f-8c3a-dcd026f2a403)
+
+### Name:  KISHORE M
+### Register Number:212224040161
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
